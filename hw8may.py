@@ -36,3 +36,38 @@
 #     i=i+1
 # print(fac)
    
+   
+# i=10
+# while i<301:
+#     print(i)
+#     i+=10
+
+# d=dict()
+
+# for x in range(1,16):
+#     d[x]=x**2
+# print(d)
+
+
+# a=[1,2,3,4,5,56,7,8,9]
+# r_list=[]
+# # for i in reversed(a):
+# #     r_list.append(i)
+# # print(r_list)
+# i=8
+# # lists=len(a)-1
+
+# while i >0:
+#     r_list.append(a[i])
+#     i=i-1
+# print(r_list)
+
+
+# a=5
+# f=1
+# i=1
+# while i<=a:
+#     f=f*i
+#     i+=1
+
+# print(f)
